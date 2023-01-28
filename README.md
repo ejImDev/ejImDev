@@ -4,4 +4,4 @@
 - 📫 imej518@naver.com / ejim0093@gmail.com
 
 - 💞️ 최근 작업한 프로젝트
-https://github.com/ejim0093/alto_new
+https://github.com/ejImDev/alto_new

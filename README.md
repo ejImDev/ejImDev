@@ -3,5 +3,5 @@
 - 🌱 저만의 강점을 찾기위해 열심히 노력 중 입니다.
 - 📫 imej518@naver.com / ejim0093@gmail.com
 
-- 💞️ 최근 작업한 프로젝트
-https://github.com/ejImDev/alto_new
+- 💞️ 최근 작업한 프로젝트 : https://github.com/ejImDev/alto_new
+- 💞️ 개인 블로그 : https://ejimdev.github.io/

@@ -3,5 +3,11 @@
 - 🌱 저만의 강점을 찾기위해 열심히 노력 중 입니다.
 - 📫 imej518@naver.com / ejim0093@gmail.com <br><br>
 
-- 💞️ 최근 작업한 프로젝트 : https://github.com/ejImDev/alto_new
+- 💞️ 참여한 프로젝트
+  - 서울투어 대여 자전거 웹페이지 개발 참여
+  - 신용보증보험 공식 웹페이지 개발 참여
+  - 문장요약/키워드필터 웹사이트 백오피스 개발 참여
+  - 영상회의 개설 및 이용자 집중도통계 웹사이트 백오피스 개발 참여
+  - 스마트팜 실증단지 데이터관리 웹사이트 백오피스 개발 참여
+- 💞️ 사이드 프로젝트 : https://github.com/ejImDev/alto_new
 - 💞️ 개인 블로그 : https://ejimdev.github.io/
